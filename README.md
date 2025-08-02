@@ -15,18 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-# Comment to be posted to on first time issues
-newIssueWelcomeComment: >
-  Thanks for opening the issue!   
-  Do join our discord server [DevSpace,](https://discord.gg/PwU8sza), a place for Awesome Developer's :)
-  Do join our discord server [DevSpace,](https://discord.gg/PwU8sza) a place for Awesome Developer's :)
-    
-# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
-
-@@ -20,5 +20,5 @@ newPRWelcomeComment: >
-
-firstPRMergeComment: >
- Congrats on merging your first pull request!   
- Do join our discord server [DevSpace,](https://discord.gg/PwU8sza), a place for Awesome Developer's :)
- Do join our discord server [DevSpace,](https://discord.gg/PwU8sza) a place for Awesome Developer's :)
+- Suggested Github Profile READMEs should be beautiful or stand out in some way.
+- Make an individual pull request for each suggestion.
+- Can suggest for different categories.
+- Start the description with a capital and end with a full stop/period.
+- Can suggest for different categories as well.
+- Start the Name with a capital.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
  
